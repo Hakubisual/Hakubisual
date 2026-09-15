@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120024,35:4a0e6b,70:c026d3,100:22d3ee&height=200&section=header&text=HAKUBISUAL&fontColor=ffffff&fontSize=62&fontAlignY=34&desc=VJ%20OPERATOR%20%E2%80%A2%203D%20%2F%20MOTION%20DESIGNER&descAlignY=55&descSize=16" />
+### <a href="https://github.com/code-yeongyu/oh-my-openagent">OMO is best</a>
 
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1400&color=22D3EE&center=true&vCenter=true&width=600&lines=pixels+on+stage%2C+code+behind+the+curtain;TouchDesigner+%C2%B7+Notch+%C2%B7+Unreal+%C2%B7+Blender;Resolume+%C2%B7+After+Effects+%C2%B7+NDI+%2F+Spout;and+the+FFGL+plugins+I+write+to+run+them" alt="typing" />
-</p>
+<img src="assets/header.png" width="100%" alt="render" />
 
 <a href="https://x.com/HakubiSual"><img src="https://img.shields.io/badge/@HakubiSual-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 <a href="https://github.com/Hakubisual"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=Hakubisual&style=for-the-badge&color=c026d3&label=VISITORS" />
+<img src="https://komarev.com/ghpvc/?username=Hakubisual&style=for-the-badge&color=e8a94b&label=VISITORS" />
 
 </div>
 
@@ -51,7 +49,6 @@ the show needs something the tool can't do  ->  I write the plugin  ->  it runs 
 <p>
   <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/After%20Effects-00005B?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" />
-  <img src="https://img.shields.io/badge/Premiere%20Pro-00005B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />
 </p>
 
 **Under the Hood**
@@ -81,17 +78,11 @@ the show needs something the tool can't do  ->  I write the plugin  ->  it runs 
 
 <div align="center">
 
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hakubisual&theme=radical" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hakubisual&theme=gruvbox" />
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hakubisual&theme=radical" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hakubisual&theme=radical" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hakubisual&theme=gruvbox" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hakubisual&theme=gruvbox" />
 
-<img src="https://streak-stats.demolab.com/?user=Hakubisual&theme=radical&hide_border=true&background=0D1117&ring=C026D3&fire=22D3EE&currStreakLabel=22D3EE" />
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,30:c026d3,65:4a0e6b,100:120024&height=120&section=footer" />
+<img src="https://streak-stats.demolab.com/?user=Hakubisual&theme=gruvbox&hide_border=true&background=1D2021&ring=E8A94B&fire=F0C173&currStreakLabel=E8A94B" />
 
 </div>
