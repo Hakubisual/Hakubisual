@@ -16,16 +16,16 @@
 
 ## ◢ ABOUT
 
-무대 위 픽셀을 다룹니다. **VJ 오퍼레이팅**, **3D 디자인**, **영상 디자인** — 그리고 그걸 돌리기 위한 도구를 직접 만듭니다.
+I push pixels on stage. **VJ operating**, **3D design**, **motion design** — and I build the tools that run the show.
 
 ```
-쇼가 원하는 게 툴에 없으면  →  플러그인을 짠다  →  그날 밤 현장에서 쓴다
+the show needs something the tool can't do  ->  I write the plugin  ->  it runs live that night
 ```
 
-- 🎛 실시간 비주얼 오퍼레이팅 & 미디어 서버 운용
-- 🧊 3D / 모션 그래픽 — 렌더 파이프라인부터 리얼타임까지
-- 🔌 **FFGL 플러그인** 직접 개발 · Resolume 워크플로우에 바로 물림
-- ⚙️ 현장에서 막히는 지점은 코드로 뚫는 편
+- 🎛 Realtime visual operating and media server ops
+- 🧊 3D and motion graphics, from offline render pipelines to fully realtime
+- 🔌 **FFGL plugins** built in-house, dropped straight into the Resolume workflow
+- ⚙️ When the venue hits a wall, I'd rather write code than work around it
 
 ---
 
@@ -71,10 +71,10 @@
 
 | | |
 |---|---|
-| 🔌 **FFGL Plugins** | Resolume 에서 바로 쓰는 커스텀 이펙트 / 소스 플러그인. C++ · OpenGL · GLSL |
-| 🧩 **TD Components** | TouchDesigner 컴포넌트 & 파이썬 확장 — 반복되는 셋업을 도구로 |
-| 🛠 **[pase-omo](https://github.com/Hakubisual/pase-omo)** | 에이전트 워크플로우 UI — DAG 그래프, 라이브 todo 카드, 모바일 대응 · `TypeScript` |
-| ⚓ **[ferryx](https://github.com/Hakubisual/ferryx)** | 병렬 에이전트 개발 워크스페이스. GPU 렌더링 터미널 + 에이전트별 git worktree · `Rust` / `Tauri` |
+| 🔌 **FFGL Plugins** | Custom effects and sources that load straight into Resolume. C++ · OpenGL · GLSL |
+| 🧩 **TD Components** | TouchDesigner components and Python extensions — turning repeat setups into tools |
+| 🛠 **[pase-omo](https://github.com/Hakubisual/pase-omo)** | Agent workflow UI — DAG graphs, live todo cards, approval popups, mobile-ready · `TypeScript` |
+| ⚓ **[ferryx](https://github.com/Hakubisual/ferryx)** | Parallel agentic dev workspace. GPU-rendered terminal, a git worktree per agent · `Rust` / `Tauri` |
 
 ---
 
