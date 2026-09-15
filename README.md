@@ -47,12 +47,12 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hakubisual&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=64FFDA&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hakubisual&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=6" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hakubisual&theme=github_dark" />
 
-<br/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hakubisual&theme=github_dark" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hakubisual&theme=github_dark" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hakubisual&theme=tokyonight&hide_border=true&background=0D1117&ring=64FFDA&fire=64FFDA" />
+<img src="https://streak-stats.demolab.com/?user=Hakubisual&theme=tokyonight&hide_border=true&background=0D1117&ring=64FFDA&fire=64FFDA" />
 
 </div>
 
