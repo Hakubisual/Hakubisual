@@ -1,68 +1,98 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Hakubisual&fontColor=ffffff&fontSize=60&fontAlignY=32&desc=building%20agentic%20dev%20tools&descAlignY=54&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:120024,35:4a0e6b,70:c026d3,100:22d3ee&height=200&section=header&text=HAKUBISUAL&fontColor=ffffff&fontSize=62&fontAlignY=34&desc=VJ%20OPERATOR%20%E2%80%A2%203D%20%2F%20MOTION%20DESIGNER&descAlignY=55&descSize=16" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=64FFDA&center=true&vCenter=true&width=520&lines=Rust+%2B+TypeScript;AI+agent+orchestration;terminals%2C+DAGs%2C+and+dev+tooling" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1400&color=22D3EE&center=true&vCenter=true&width=600&lines=pixels+on+stage%2C+code+behind+the+curtain;TouchDesigner+%C2%B7+Notch+%C2%B7+Unreal+%C2%B7+Blender;Resolume+%C2%B7+disguise+d3+%C2%B7+After+Effects;and+the+FFGL+plugins+I+write+to+run+them" alt="typing" />
 </p>
+
+<a href="https://x.com/HakubiSual"><img src="https://img.shields.io/badge/@HakubiSual-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://github.com/Hakubisual"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Hakubisual&style=for-the-badge&color=c026d3&label=VISITORS" />
 
 </div>
 
 ---
 
-### 👋 About
+## ◢ ABOUT
 
-에이전트가 실제로 일하는 개발 환경을 만듭니다. 터미널, 워크트리, DAG 오케스트레이션 쪽을 주로 팝니다.
+무대 위 픽셀을 다룹니다. **VJ 오퍼레이팅**, **3D 디자인**, **영상 디자인** — 그리고 그걸 돌리기 위한 도구를 직접 만듭니다.
 
-- 🔭 지금은 **Paseo / OmO** 에이전트 워크플로우 작업 중
-- 🦀 Rust + Tauri 로 네이티브 툴링, TypeScript 로 UI
-- ⚡ 관심사: 병렬 에이전트, GPU 렌더링 터미널, 개발자 경험
+```
+쇼가 원하는 게 툴에 없으면  →  플러그인을 짠다  →  그날 밤 현장에서 쓴다
+```
+
+- 🎛 실시간 비주얼 오퍼레이팅 & 미디어 서버 운용
+- 🧊 3D / 모션 그래픽 — 렌더 파이프라인부터 리얼타임까지
+- 🔌 **FFGL 플러그인** 직접 개발 · Resolume 워크플로우에 바로 물림
+- ⚙️ 현장에서 막히는 지점은 코드로 뚫는 편
 
 ---
 
-### 🛠 Tech Stack
+## ◢ STAGE TOOLKIT
+
+**Realtime / Generative**
 
 <p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/TouchDesigner-0F0F0F?style=for-the-badge&logoColor=white&labelColor=0F0F0F&color=00E5FF" />
+  <img src="https://img.shields.io/badge/Notch-0F0F0F?style=for-the-badge&logoColor=white&labelColor=0F0F0F&color=FF2D55" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
+</p>
+
+**Show Control / Media Server**
+
+<p>
+  <img src="https://img.shields.io/badge/Resolume%20Arena-0F0F0F?style=for-the-badge&logoColor=white&labelColor=0F0F0F&color=FF6B00" />
+  <img src="https://img.shields.io/badge/disguise%20d3-0F0F0F?style=for-the-badge&logoColor=white&labelColor=0F0F0F&color=A855F7" />
+  <img src="https://img.shields.io/badge/NDI%20%2F%20Spout-0F0F0F?style=for-the-badge&logoColor=white&labelColor=0F0F0F&color=22D3EE" />
+</p>
+
+**3D / Post**
+
+<p>
+  <img src="https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/After%20Effects-00005B?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF" />
+  <img src="https://img.shields.io/badge/Premiere%20Pro-00005B?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" />
+</p>
+
+**Under the Hood**
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/GLSL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Projects
+## ◢ I BUILD MY OWN TOOLS
 
 | | |
 |---|---|
-| **[pase-omo](https://github.com/Hakubisual/pase-omo)** | OmO agent provider & workflow UI for Paseo — DAG 그래프, 라이브 todo 카드, 승인 팝업, 모바일 대응 · `TypeScript` |
-| **[ferryx](https://github.com/Hakubisual/ferryx)** | 병렬 에이전트 개발 워크스페이스. Ghostty 터미널 엔진 + wgpu GPU 렌더링, 에이전트당 git worktree, 내장 브라우저 탭 · `Rust` / `Tauri` |
+| 🔌 **FFGL Plugins** | Resolume 에서 바로 쓰는 커스텀 이펙트 / 소스 플러그인. C++ · OpenGL · GLSL |
+| 🧩 **TD Components** | TouchDesigner 컴포넌트 & 파이썬 확장 — 반복되는 셋업을 도구로 |
+| 🛠 **[pase-omo](https://github.com/Hakubisual/pase-omo)** | 에이전트 워크플로우 UI — DAG 그래프, 라이브 todo 카드, 모바일 대응 · `TypeScript` |
+| ⚓ **[ferryx](https://github.com/Hakubisual/ferryx)** | 병렬 에이전트 개발 워크스페이스. GPU 렌더링 터미널 + 에이전트별 git worktree · `Rust` / `Tauri` |
 
 ---
 
-### 📊 Stats
+## ◢ SIGNAL
 
 <div align="center">
 
-<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hakubisual&theme=github_dark" />
+<img height="175" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hakubisual&theme=radical" />
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hakubisual&theme=github_dark" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hakubisual&theme=github_dark" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hakubisual&theme=radical" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hakubisual&theme=radical" />
 
-<img src="https://streak-stats.demolab.com/?user=Hakubisual&theme=tokyonight&hide_border=true&background=0D1117&ring=64FFDA&fire=64FFDA" />
+<img src="https://streak-stats.demolab.com/?user=Hakubisual&theme=radical&hide_border=true&background=0D1117&ring=C026D3&fire=22D3EE&currStreakLabel=22D3EE" />
 
 </div>
 
----
-
 <div align="center">
 
-<a href="https://github.com/Hakubisual"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:uin@kakao.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=Hakubisual&style=flat-square&color=64FFDA" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,30:c026d3,65:4a0e6b,100:120024&height=120&section=footer" />
 
 </div>
