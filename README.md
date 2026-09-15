@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:120024,35:4a0e6b,70:c026d3,100:22d3ee&height=200&section=header&text=HAKUBISUAL&fontColor=ffffff&fontSize=62&fontAlignY=34&desc=VJ%20OPERATOR%20%E2%80%A2%203D%20%2F%20MOTION%20DESIGNER&descAlignY=55&descSize=16" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1400&color=22D3EE&center=true&vCenter=true&width=600&lines=pixels+on+stage%2C+code+behind+the+curtain;TouchDesigner+%C2%B7+Notch+%C2%B7+Unreal+%C2%B7+Blender;Resolume+%C2%B7+disguise+d3+%C2%B7+After+Effects;and+the+FFGL+plugins+I+write+to+run+them" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1400&color=22D3EE&center=true&vCenter=true&width=600&lines=pixels+on+stage%2C+code+behind+the+curtain;TouchDesigner+%C2%B7+Notch+%C2%B7+Unreal+%C2%B7+Blender;Resolume+%C2%B7+After+Effects+%C2%B7+NDI+%2F+Spout;and+the+FFGL+plugins+I+write+to+run+them" alt="typing" />
 </p>
 
 <a href="https://x.com/HakubiSual"><img src="https://img.shields.io/badge/@HakubiSual-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -43,7 +43,6 @@ the show needs something the tool can't do  ->  I write the plugin  ->  it runs 
 
 <p>
   <img src="https://img.shields.io/badge/Resolume%20Arena-0F0F0F?style=for-the-badge&logoColor=white&labelColor=0F0F0F&color=FF6B00" />
-  <img src="https://img.shields.io/badge/disguise%20d3-0F0F0F?style=for-the-badge&logoColor=white&labelColor=0F0F0F&color=A855F7" />
   <img src="https://img.shields.io/badge/NDI%20%2F%20Spout-0F0F0F?style=for-the-badge&logoColor=white&labelColor=0F0F0F&color=22D3EE" />
 </p>
 
