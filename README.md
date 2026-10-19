@@ -6,7 +6,7 @@
 
 VJ operator · 3D & motion designer · I build the tools that run the show.
 
-<a href="https://x.com/HakubiSual">X</a> · <a href="https://acard.dev">Acard</a>
+<a href="https://x.com/HakubiSual">X</a> · <a href="https://github.com/Hakubisual/open-notion">OpenNotion</a> · <a href="https://acard.dev">acard.dev</a>
 
 </div>
 
@@ -14,9 +14,12 @@ VJ operator · 3D & motion designer · I build the tools that run the show.
 
 ### Projects
 
+#### [OpenNotion](https://github.com/Hakubisual/open-notion)
+
+Self-hosted, Notion-style workspace - pages, databases and an agent API you run yourself. MIT licensed. Hosted version: [acard.dev](https://acard.dev).
+
 | | |
 |---|---|
-| **[Acard](https://acard.dev)** | AI writes markdown, people read refined, Notion-like pages. Connect any agent with one MCP line. |
 | **[pase-omo](https://github.com/Hakubisual/pase-omo)** | Agent workflow UI for Paseo - DAG graphs, live todo cards, approvals, mobile-ready. |
 | **[rhwp-plus](https://github.com/Hakubisual/rhwp-plus)** | HWP/HWPX engine based on rhwp - Markdown import, MCP tool for agents. |
 | **[notebase](https://github.com/Hakubisual/notebase)** | Project status, wiki pages and databases for your notes. |
