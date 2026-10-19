@@ -16,7 +16,7 @@ VJ operator · 3D & motion designer · I build the tools that run the show.
 
 #### [OpenNotion](https://github.com/Hakubisual/open-notion)
 
-Self-hosted, Notion-style workspace - pages, databases and an agent API you run yourself. MIT licensed. Hosted version: [acard.dev](https://acard.dev).
+Self-hosted, Notion-style workspace - pages, databases and an agent API you run yourself. MIT licensed. [Acard](https://acard.dev) is built on OpenNotion - try the hosted version at [acard.dev](https://acard.dev).
 
 | | |
 |---|---|
